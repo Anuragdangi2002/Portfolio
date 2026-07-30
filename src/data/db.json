@@ -1,0 +1,369 @@
+{
+  "settings": {
+    "name": "Kai Rhodes",
+    "headline": "FRAME BY FRAME, STORY BY DESIGN.",
+    "subtitle": "Kai Rhodes — a cinematic video editor crafting films, commercials, and motion for brands who refuse to be forgettable.",
+    "biography": "Twelve years cutting stories that hold attention hostage — from 30‑second ads to feature documentaries, always chasing the frame that makes people feel something before they know why.\n\nI edit at the intersection of rhythm and restraint: pacing that respects the story, colour that respects the mood, sound design that never announces itself. My process is built in Premiere Pro and DaVinci Resolve, refined in After Effects, and finished with an obsessive attention to the first three seconds.\n\nBased between Los Angeles and remote, working with agencies, filmmakers, and founders who need footage to feel like film.",
+    "years_experience": 12,
+    "availability": "Booking for Q4 2026",
+    "email": "hello@kairhodes.film",
+    "phone": "+1 (310) 555-0148",
+    "address": "Los Angeles, CA",
+    "working_hours": "Mon - Fri, 9:00 AM - 6:00 PM PST",
+    "calendly_link": "https://calendly.com/",
+    "maps_link": "https://maps.google.com",
+    "resume_url": "#",
+    "profile_image_url": "https://images.unsplash.com/photo-1521119989659-a83eee488004?q=80&w=1000&auto=format&fit=crop",
+    "socials": {
+      "linkedin": "https://linkedin.com/in/",
+      "instagram": "https://instagram.com/",
+      "youtube": "https://youtube.com/",
+      "behance": "https://behance.net/",
+      "dribbble": "https://dribbble.com/",
+      "x": "https://x.com/",
+      "facebook": "https://facebook.com/",
+      "whatsapp": "https://wa.me/10000000000"
+    },
+    "seo": {
+      "meta_title": "Kai Rhodes — Film & Motion Editor",
+      "meta_description": "Kai Rhodes is a cinematic video editor crafting commercials, films, and motion graphics for global brands.",
+      "keywords": "video editing, color grading, DaVinci Resolve, Premiere Pro, motion graphics, film editor, commercial editor"
+    },
+    "stats": [
+      { "label": "Projects delivered", "value": 240 },
+      { "label": "Client retention %", "value": 94 },
+      { "label": "Hours of footage cut", "value": 2400 },
+      { "label": "Industry awards", "value": 14 }
+    ],
+    "theme": {
+      "accent_color": "#f0c986",
+      "secondary_color": "#57c7d4",
+      "enable_grain": true,
+      "enable_cursor": true
+    }
+  },
+  "projects": [
+    {
+      "id": "1",
+      "title": "Solace — Launch Film",
+      "slug": "solace-launch-film",
+      "category": "commercials",
+      "featured": true,
+      "thumbnail_url": "https://images.unsplash.com/photo-1492724441997-5dc865305da7?q=80&w=1400&auto=format&fit=crop",
+      "cover_url": "https://images.unsplash.com/photo-1492724441997-5dc865305da7?q=80&w=1400&auto=format&fit=crop",
+      "video_url": "https://cdn.coverr.co/videos/coverr-a-drone-flying-over-a-city-9528/1080p.mp4",
+      "vimeo_url": "",
+      "youtube_url": "",
+      "client": "Solace Labs",
+      "year": "2025",
+      "duration": "01:32",
+      "description": "A 90‑second brand film for a sleep-tech startup, cut to build calm through rhythm — long holds, patient sound design, a reveal that lands in silence.",
+      "challenge": "A sleep-tech brand needed a launch film that felt calm rather than 'techy' — without leaning on cliché slow-motion product shots.",
+      "process": "Structured the edit around breath — literal pacing tied to a resting heart rate, colour desaturated 15%, sound design built from field recordings, not stock.",
+      "results": "3.1M organic views in the first month and the brand's highest-converting landing page asset to date.",
+      "before_image_url": "https://images.unsplash.com/photo-1518091043644-c1d4457512c6?q=80&w=1400&auto=format&fit=crop",
+      "after_image_url": "https://images.unsplash.com/photo-1518091043644-c1d4457512c6?q=80&w=1400&auto=format&fit=crop&sat=-50&con=20",
+      "gallery_images": [
+        "https://images.unsplash.com/photo-1492724441997-5dc865305da7?q=80&w=1400&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1518091043644-c1d4457512c6?q=80&w=1400&auto=format&fit=crop"
+      ],
+      "software_used": ["Premiere Pro", "DaVinci Resolve"],
+      "project_tags": ["Brand Film", "Sound Design", "Color Grading"],
+      "sort_order": 1,
+      "archived": false
+    },
+    {
+      "id": "2",
+      "title": "Aurora — \"Static\" Music Video",
+      "slug": "aurora-static-music-video",
+      "category": "youtube",
+      "featured": true,
+      "thumbnail_url": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?q=80&w=1400&auto=format&fit=crop",
+      "cover_url": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?q=80&w=1400&auto=format&fit=crop",
+      "video_url": "https://cdn.coverr.co/videos/coverr-a-concert-with-lights-1614/1080p.mp4",
+      "vimeo_url": "",
+      "youtube_url": "",
+      "client": "Aurora Records",
+      "year": "2025",
+      "duration": "03:04",
+      "description": "Beat-synced editing across three timelines and 40+ hours of footage, compressed into a 3‑minute video engineered for repeat viewing.",
+      "challenge": "40+ hours of multi-cam concert and narrative footage needed to cut down to a single 3‑minute story without losing the live energy.",
+      "process": "Built a beat-map first, cut picture to the map across three parallel timelines, then merged the strongest performance takes per section.",
+      "results": "Premiered on the label's YouTube channel, entered the platform's music trending page within 6 hours.",
+      "before_image_url": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?q=80&w=1400&auto=format&fit=crop",
+      "after_image_url": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?q=80&w=1400&auto=format&fit=crop",
+      "gallery_images": [
+        "https://images.unsplash.com/photo-1478720568477-152d9b164e26?q=80&w=1400&auto=format&fit=crop"
+      ],
+      "software_used": ["Premiere Pro", "After Effects"],
+      "project_tags": ["Music Video", "Multi-cam", "Visual Effects"],
+      "sort_order": 2,
+      "archived": false
+    },
+    {
+      "id": "3",
+      "title": "Maren & Cole — Wedding Film",
+      "slug": "maren-cole-wedding-film",
+      "category": "weddings",
+      "featured": true,
+      "thumbnail_url": "https://images.unsplash.com/photo-1500534623283-312aade485b7?q=80&w=1400&auto=format&fit=crop",
+      "cover_url": "https://images.unsplash.com/photo-1500534623283-312aade485b7?q=80&w=1400&auto=format&fit=crop",
+      "video_url": "https://cdn.coverr.co/videos/coverr-a-bride-and-groom-at-their-wedding-2318/1080p.mp4",
+      "vimeo_url": "",
+      "youtube_url": "",
+      "client": "Private",
+      "year": "2024",
+      "duration": "08:12",
+      "description": "A documentary-style cut built from twelve hours of coverage, structured around vows and unscripted moments rather than a shot list.",
+      "challenge": "Capturing the emotional essence of a wedding without falling back on stock transition formulas and standard cinematic templates.",
+      "process": "Built the entire cut around dialogue tracks rather than background music, creating an intimate soundstage, combined with warm natural grading.",
+      "results": "Delivered a lifelong heirloom with highly emotional client reception and 3 referral bookings.",
+      "before_image_url": "https://images.unsplash.com/photo-1500534623283-312aade485b7?q=80&w=1400&auto=format&fit=crop",
+      "after_image_url": "https://images.unsplash.com/photo-1500534623283-312aade485b7?q=80&w=1400&auto=format&fit=crop",
+      "gallery_images": [
+        "https://images.unsplash.com/photo-1500534623283-312aade485b7?q=80&w=1400&auto=format&fit=crop"
+      ],
+      "software_used": ["DaVinci Resolve", "Premiere Pro"],
+      "project_tags": ["Wedding Film", "Documentary Style", "Grading"],
+      "sort_order": 3,
+      "archived": false
+    },
+    {
+      "id": "4",
+      "title": "Nomad — Travel Ad",
+      "slug": "nomad-travel-ad",
+      "category": "ads",
+      "featured": false,
+      "thumbnail_url": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?q=80&w=700&auto=format&fit=crop",
+      "cover_url": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?q=80&w=700&auto=format&fit=crop",
+      "video_url": "https://cdn.coverr.co/videos/coverr-a-drone-flying-over-a-city-9528/1080p.mp4",
+      "vimeo_url": "",
+      "youtube_url": "",
+      "client": "Nomad",
+      "year": "2024",
+      "duration": "00:30",
+      "description": "High-octane commercial cut for premium adventure gear brand, optimized for CTR.",
+      "challenge": "High pace requirements within strict social guidelines.",
+      "process": "Dynamic kinetic typesetting matched with sound cues.",
+      "results": "Industry award nominee, 25% CTR boost.",
+      "before_image_url": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?q=80&w=700&auto=format&fit=crop",
+      "after_image_url": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?q=80&w=700&auto=format&fit=crop",
+      "gallery_images": [],
+      "software_used": ["Premiere Pro"],
+      "project_tags": ["Commercial", "Sound Design"],
+      "sort_order": 4,
+      "archived": false
+    },
+    {
+      "id": "5",
+      "title": "Late Bloom — Short Film",
+      "slug": "late-bloom-short-film",
+      "category": "shorts",
+      "featured": false,
+      "thumbnail_url": "https://images.unsplash.com/photo-1574717024653-61fd2cf4d44d?q=80&w=700&auto=format&fit=crop",
+      "cover_url": "https://images.unsplash.com/photo-1574717024653-61fd2cf4d44d?q=80&w=700&auto=format&fit=crop",
+      "video_url": "https://cdn.coverr.co/videos/coverr-a-drone-flying-over-a-city-9528/1080p.mp4",
+      "vimeo_url": "",
+      "youtube_url": "",
+      "client": "Indie Director",
+      "year": "2024",
+      "duration": "14:20",
+      "description": "Slow-burn indie drama editing emphasizing long takes and negative space.",
+      "challenge": "Pacing dialogue-heavy scenes without letting the tension drop.",
+      "process": "Slight breathing delays added to reaction shots.",
+      "results": "Sundance shorts submission.",
+      "before_image_url": "https://images.unsplash.com/photo-1574717024653-61fd2cf4d44d?q=80&w=700&auto=format&fit=crop",
+      "after_image_url": "https://images.unsplash.com/photo-1574717024653-61fd2cf4d44d?q=80&w=700&auto=format&fit=crop",
+      "gallery_images": [],
+      "software_used": ["DaVinci Resolve", "Avid Media Composer"],
+      "project_tags": ["Short Film", "Narrative"],
+      "sort_order": 5,
+      "archived": false
+    }
+  ],
+  "reels": [
+    {
+      "id": "1",
+      "title": "Studio Sessions",
+      "video_url": "https://cdn.coverr.co/videos/coverr-editing-a-video-on-a-computer-9665/1080p.mp4",
+      "thumbnail_url": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?q=80&w=700&auto=format&fit=crop",
+      "description": "Vertical reel still — studio session",
+      "category": "reels",
+      "views_count": "1.2M views",
+      "tags": ["Studio", "Process"]
+    },
+    {
+      "id": "2",
+      "title": "Behind the Lens",
+      "video_url": "https://cdn.coverr.co/videos/coverr-editing-a-video-on-a-computer-9665/1080p.mp4",
+      "thumbnail_url": "https://images.unsplash.com/photo-1601506521937-0121a7fc2a6b?q=80&w=700&auto=format&fit=crop",
+      "description": "Vertical reel still — behind the lens",
+      "category": "reels",
+      "views_count": "860K views",
+      "tags": ["BTS", "Equipment"]
+    },
+    {
+      "id": "3",
+      "title": "City Nights",
+      "video_url": "https://cdn.coverr.co/videos/coverr-editing-a-video-on-a-computer-9665/1080p.mp4",
+      "thumbnail_url": "https://images.unsplash.com/photo-1533613220915-609f661a6fe1?q=80&w=700&auto=format&fit=crop",
+      "description": "Vertical reel still — city nights",
+      "category": "reels",
+      "views_count": "2.4M views",
+      "tags": ["Gritty", "Night"]
+    },
+    {
+      "id": "4",
+      "title": "Live Set Cuts",
+      "video_url": "https://cdn.coverr.co/videos/coverr-editing-a-video-on-a-computer-9665/1080p.mp4",
+      "thumbnail_url": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?q=80&w=700&auto=format&fit=crop",
+      "description": "Vertical reel still — live set",
+      "category": "reels",
+      "views_count": "640K views",
+      "tags": ["Concert", "BeatSync"]
+    }
+  ],
+  "services": [
+    {
+      "id": "1",
+      "title": "Narrative Editing",
+      "description": "Shaping raw footage into a story with structure, tension, and payoff — for docs, brand films, and shorts.",
+      "icon": "Video",
+      "tags": ["Story", "Pacing", "Sound"],
+      "visible": true,
+      "sort_order": 1
+    },
+    {
+      "id": "2",
+      "title": "Commercial & Ad Cuts",
+      "description": "Fast, punchy edits engineered for retention on paid media — 6s, 15s, 30s, and everything in between.",
+      "icon": "Monitor",
+      "tags": ["Performance", "Hook design"],
+      "visible": true,
+      "sort_order": 2
+    },
+    {
+      "id": "3",
+      "title": "Motion Graphics",
+      "description": "Kinetic type, logo animation, and UI motion built in After Effects to give brands a signature move.",
+      "icon": "Layers",
+      "tags": ["AE", "2D/3D"],
+      "visible": true,
+      "sort_order": 3
+    },
+    {
+      "id": "4",
+      "title": "Colour Grading",
+      "description": "Cinematic grades tailored to camera, lens, and story tone — from natural to stylised, node-based in Resolve.",
+      "icon": "Sparkles",
+      "tags": ["DaVinci", "LUTs"],
+      "visible": true,
+      "sort_order": 4
+    },
+    {
+      "id": "5",
+      "title": "Sound Design & Mix",
+      "description": "Layered ambience, foley, and score placement that gives every cut a body you can feel, not just see.",
+      "icon": "Music",
+      "tags": ["Mixing", "Foley"],
+      "visible": true,
+      "sort_order": 5
+    },
+    {
+      "id": "6",
+      "title": "Full Post Production",
+      "description": "End-to-end delivery from ingest to final master — offline, online, grade, mix, and export, managed for you.",
+      "icon": "Film",
+      "tags": ["Pipeline", "Delivery"],
+      "visible": true,
+      "sort_order": 6
+    }
+  ],
+  "testimonials": [
+    {
+      "id": "1",
+      "name": "Priya Anand",
+      "company": "Solace Labs",
+      "role": "Founder",
+      "review": "Kai turned forty hours of chaotic footage into the single best asset our brand has ever had. The pacing alone converted better than our media spend.",
+      "rating": 5,
+      "client_photo_url": "https://i.pravatar.cc/150?u=PriyaAnand",
+      "visible": true,
+      "sort_order": 1
+    },
+    {
+      "id": "2",
+      "name": "Marco Villanueva",
+      "company": "Aurora Records",
+      "role": "Director",
+      "review": "Every cut felt intentional. He understood the emotional beat of the story before I could even explain it out loud.",
+      "rating": 5,
+      "client_photo_url": "https://i.pravatar.cc/150?u=MarcoVillanueva",
+      "visible": true,
+      "sort_order": 2
+    },
+    {
+      "id": "3",
+      "name": "Elle Forsythe",
+      "company": "Nomad",
+      "role": "Creative Director",
+      "review": "We've worked with a dozen editors. Nobody else treats sound design with this level of care.",
+      "rating": 5,
+      "client_photo_url": "https://i.pravatar.cc/150?u=ElleForsythe",
+      "visible": true,
+      "sort_order": 3
+    },
+    {
+      "id": "4",
+      "name": "Maren Cole",
+      "company": "Private Client",
+      "role": "Client",
+      "review": "Our wedding film still makes guests cry two years later. That's the whole review.",
+      "rating": 5,
+      "client_photo_url": "https://i.pravatar.cc/150?u=MarenCole",
+      "visible": true,
+      "sort_order": 4
+    },
+    {
+      "id": "5",
+      "name": "Devon Cho",
+      "company": "Halo Skincare",
+      "role": "Producer",
+      "review": "Fast, precise, and never precious about cutting his own darlings if the story needed it.",
+      "rating": 5,
+      "client_photo_url": "https://i.pravatar.cc/150?u=DevonCho",
+      "visible": true,
+      "sort_order": 5
+    },
+    {
+      "id": "6",
+      "name": "Sasha Reyes",
+      "company": "Terra Coffee Co.",
+      "role": "DP",
+      "review": "The best colour grade our raw footage has ever received. It looked like a different camera.",
+      "rating": 5,
+      "client_photo_url": "https://i.pravatar.cc/150?u=SashaReyes",
+      "visible": true,
+      "sort_order": 6
+    }
+  ],
+  "clients": [
+    { "id": "1", "name": "NOMAD", "visible": true, "sort_order": 1 },
+    { "id": "2", "name": "AURORA", "visible": true, "sort_order": 2 },
+    { "id": "3", "name": "SOLACE", "visible": true, "sort_order": 3 },
+    { "id": "4", "name": "HALO", "visible": true, "sort_order": 4 },
+    { "id": "5", "name": "TERRA", "visible": true, "sort_order": 5 },
+    { "id": "6", "name": "WREN & CO", "visible": true, "sort_order": 6 },
+    { "id": "7", "name": "FINTRA", "visible": true, "sort_order": 7 },
+    { "id": "8", "name": "VERVE", "visible": true, "sort_order": 8 },
+    { "id": "9", "name": "ILFORD", "visible": true, "sort_order": 9 }
+  ],
+  "awards": [
+    { "id": "1", "title": "Vimeo Staff Pick", "subtitle": "\"Static\"", "year": "2025", "category": "award", "badge_text": "Editing" },
+    { "id": "2", "title": "Webby Award, Honoree", "subtitle": "Solace Launch Film", "year": "2025", "category": "award", "badge_text": "Branded Content" },
+    { "id": "3", "title": "Cannes Lions, Shortlist", "subtitle": "Nomad Ad Campaign", "year": "2024", "category": "award", "badge_text": "Craft — Editing" },
+    { "id": "4", "title": "American Cutting Edge", "subtitle": "Finalist", "year": "2023", "category": "award", "badge_text": "Editor of the Year" },
+    { "id": "5", "title": "Featured", "subtitle": "Motionographer", "year": "2023", "category": "award", "badge_text": "Motion Design" }
+  ],
+  "messages": []
+}
